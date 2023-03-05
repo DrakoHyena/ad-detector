@@ -1,0 +1,18 @@
+{
+  "name": "ad-detector",
+  "version": "1.0.3",
+  "description": "Detect urls or ips associated with ads and other related things",
+  "main": "adblock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ad",
+    "ads",
+    "adblock",
+    "trackerblock"
+  ],
+  "repository": "https://github.com/DrakoHyena/ad-detector",
+  "author": "Drako Hyena",
+  "license": "Unlicense"
+}
